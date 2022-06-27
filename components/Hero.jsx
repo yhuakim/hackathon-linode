@@ -51,7 +51,7 @@ export default function Hero() {
           </Heading>
           </Box>
           <Box 
-          py={3}>
+          pb={3}>
             <Text fontSize={20}>While you are doing something important, we will <br /> put things in order in the apartment, private <br /> house or office</Text>
           </Box>
           <HStack spacing='30px' py={5}>
