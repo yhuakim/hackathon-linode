@@ -30,10 +30,11 @@ export default function Hero() {
         >
           <Box py={4} >
           <Heading 
-          width='450px' 
+          width='500px' 
           letterSpacing='2px' 
           lineHeight='1.3'
           fontWeight='600'
+          fontSize={50}
           >
             <Box 
             as='span' 
