@@ -38,7 +38,7 @@ export default function Hero() {
             <Box 
             as='span' 
             fontWeight='400' 
-            fontSize={[30, 35, 60]}>Professional</Box> <br />
+            fontSize={[30, 35, 50]}>Professional</Box> <br />
             cleaning services <br /> 
             in <Box 
             as='span' 
@@ -51,7 +51,7 @@ export default function Hero() {
           </Box>
           <Box 
           py={3}>
-            <Text fontSize={27}>While you are doing something important, we will <br /> put things in order in the apartment, private <br /> house or office</Text>
+            <Text fontSize={20}>While you are doing something important, we will <br /> put things in order in the apartment, private <br /> house or office</Text>
           </Box>
           <HStack spacing='30px' py={5}>
           <Box>
