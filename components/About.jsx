@@ -8,11 +8,6 @@ const About =()=> {
         >
             <Box>About Us</Box>
             <Box
-            h='100%'
-            bgImage='url(/images/about.png) !important'
-            bgPosition='center'
-            bgSize='cover'
-            bgRepeat='no-repeat'
             ></Box>
         </Box>
     )

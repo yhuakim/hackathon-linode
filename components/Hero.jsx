@@ -16,7 +16,7 @@ export default function Hero() {
         <link rel="icon" href="/favicon.ico" />
       </Head> */}
       <Container 
-      maxW='1400px'>
+      maxW='1200px'>
         <Flex 
         direction='column'>
         <Box>
